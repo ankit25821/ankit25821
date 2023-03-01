@@ -14,13 +14,13 @@ I'm a software developer and a tech enthusiast with a passion for learning and b
 
 ## ⭐ Featured Repositories
 
-### 🌐 [Whatsapp Chatbot Using Dialogflow](https://github.com/ankit25821/dialogflow-whatsapp-chatbot)
+### <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp Icon" height=25 width=25 /> [Whatsapp Chatbot Using Dialogflow](https://github.com/ankit25821/dialogflow-whatsapp-chatbot)
 
-This is a curated list of awesome portfolio websites for inspiration. You can browse through the list to get ideas for your own portfolio website.
+This project uses Dialogflow to perform NLP and responds on Whatsapp using Twillio.
 
-### ![YouTube Icon](http://20.197.28.137:5000/home/) [Youtube Summarizer Using Flask and Gensim](https://github.com/ankit25821/flask-youtube-summarizer)
+### <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube Icon" height=25 width=25 /> [Youtube Summarizer Using Flask and Gensim](https://github.com/ankit25821/flask-youtube-summarizer)
 
-In this project, you will be a creating a Chrome Extension which will make a request to a backend REST API where it will perform NLP and respond with a summarized version of a YouTube transcript.
+This project uses Chrome Extension which will make a request to a backend REST API where it will perform NLP and respond with a summarized version of a YouTube transcript.
 
 ### 🧐 [Realtime Face Detection using OpenCV and Flask](https://github.com/ankit25821/flask-realtime-facedetection)
 
