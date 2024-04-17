@@ -6,7 +6,7 @@ I'm a software developer and a tech enthusiast with a passion for learning and b
 
 - 💻 I'm passionate about web development, machine learning and automation.
 - 📚 I'm always learning and trying out new technologies and frameworks.
-- 🔧 My skills include Python, JavaScript, Java, C, C++, HTML, CSS, Flask, ReactJS, Bootstrap, Git, VS Code, Jupyter Notebook, Anaconda, and MongoDB.
+- 🔧 My skills include Python, JavaScript, C, HTML, CSS, Flask, ReactJS, Bootstrap, Git, VS Code, Jupyter Notebook, MongoDB.
 
 ## 📈 Github Stats
 
@@ -28,6 +28,7 @@ This is a Python script that uses OpenCV to detect faces in an image. It uses a 
 
 ## 🌐 Connect with Me
 
+- [StackOverflow](https://stackoverflow.com/users/14457833/ankit-tiwari)
 - [LinkedIn](https://www.linkedin.com/in/ankit-tiwari-5429b61b1/)
 - [Twitter](https://twitter.com/AnkitTi84236418)
 - [Website](https://ankit25821.github.io/)
